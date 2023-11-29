@@ -152,3 +152,15 @@ main {
 .news-source {
     margin-block: 12px;
 }
+
+/* footer  */
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: #577592;
+    text-align: center;
+    color: white;
+    padding-top: 35px;
+    font-size: larger;
+}
